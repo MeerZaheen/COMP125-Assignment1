@@ -31,7 +31,7 @@
     paragraphs[1] = "On this page, you will be able to see some of my previous and on-going projects!"
     
     // project 1 paragraph (PC)
-    paragraphs[3] = "This was my first ever custom-built desktop PC. I started this project with extreme budget for about 300$ and my initial plan was to keep on upgrading and work on this project. I did a lot of research onto PC components in every aspect possible. I enjoyed working on this project as much as I enjoyed all my other activities. As of now, this custom PC can handle everything thrown at it and there will always be a new upgrade as more and more technology arises. Click here to check the components on this custom-built PC:"
+    paragraphs[3] = "This was my first ever custom-built desktop PC. I started this project with extreme budget for about 300$ and my initial plan was to keep on upgrading and work on this project. I did a lot of research onto PC components in every aspect possible. I enjoyed working on this project as much as I enjoyed all my other activities. As of now, this custom PC can handle everything thrown at it and there will always be a new upgrade as more and more technology arises."
     
     // project 2 paragraph (Art)
     paragraphs[4] = "Drawing and sketching has always been a part of my hobbie every since I was very young. This hobbie has somewhat become similar to a project."
