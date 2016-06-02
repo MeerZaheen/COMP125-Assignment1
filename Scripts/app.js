@@ -4,7 +4,7 @@
 * FileName: App.js
 *
 * @author Meer Zaheen Nazmul
-* @date june 3, 2016
+* @date june 2, 2016
 *
 * StudentID: 300522487
 * website: http://comp125-assignment-1.azurewebsites.net
@@ -56,7 +56,7 @@
 
     for (var index = 0; index < paragraphElements.length; index++) {
         if (paragraphElements[index]) {
-            paragraphElements[index].textContent = paragraphs[index];
+            paragraphElements[index].innerHTML = paragraphs[index];
         }
     }
 })();
